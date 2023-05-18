@@ -7,8 +7,14 @@
   
 </div>
 <div>
+ <h1>Tools</h1>
+ *Intellij IDE
+ <br>
+ *JDK 15
+</div>
+<div>
   <h1>Libraries</h1>
-  * JDK 15
+  
   <br>
   * Java 3D
   <br>
