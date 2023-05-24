@@ -14,6 +14,7 @@ public class principal {
         JFrame ventana= new JFrame("Mi ventana 3D ");
         presenta3D prncipal =  new presenta3D();
         ventana.add(prncipal);
+        //ventana.setUndecorated(true);
         ventana.setSize(900,700);
         ventana.setVisible(true);
         ventana.setLocationRelativeTo(null);
