@@ -21,5 +21,3 @@
   * Maven
 </div>
 
-ddhhdfdfdgdfdfh
-dgsdsdsddsfsdfsd
