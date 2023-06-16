@@ -10,6 +10,8 @@
  <h1>Tools</h1>
  *Intellij IDE
  <br>
+ *Blender
+ <br>
  *JDK 15
 </div>
 <div>
