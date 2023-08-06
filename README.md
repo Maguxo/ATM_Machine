@@ -10,9 +10,9 @@
  <h1>Tools</h1>
  *Intellij IDE
  <br>
- *Blender
+ * Blender
  <br>
- *JDK 15
+ * JDK 15
 </div>
 <div>
   <h1>Libraries</h1>
