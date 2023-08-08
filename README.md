@@ -28,7 +28,7 @@
    <h1>Presentación</h1>
     <img src="https://github.com/Magucho/ATM_Machine/assets/98346054/04ebb60d-4002-4760-9c60-8507aa173ad6">
 
-   ffhnfgnfgnfgn
+   .....
   </div>
 </div>
 
