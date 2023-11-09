@@ -11,12 +11,12 @@ fgnfgnfgn
  *Intellij IDEerfrefer
  <br>xbdfbdfbgdhdghgfhgf
  * Blenderdghdghghgfhg
- <br>fdbdfbdfbffddfbrtyrtrtrtrtrtygrrgfnrgngffgfgnfgn
- * JDK 15dghdfhdhdffnfgnfgnfgg
+ <br>
+ * JDK 15
 </div>
-<div>gfgfgdfbdfbdfbdf
-  <h1>Libraries</h1>eeerreter
-  ergergerg
+<div>
+  <h1>Libraries</h1>
+ 
   <br>
   * Java 3Dhgjghjgh
   <br>
