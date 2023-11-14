@@ -32,8 +32,8 @@ public class presenta3D extends JPanel {
 
          Vector3d posicionVista= new Vector3d();
          posicionVista.z=5f;
-         posicionVista.x=0f;
-         posicionVista.y=0f;
+         posicionVista.x=-0.5f;
+         posicionVista.y=-0.5f;
 
          //traslación
          Transform3D transforVista= new Transform3D();
