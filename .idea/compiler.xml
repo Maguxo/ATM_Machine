@@ -9,8 +9,5 @@
         <module name="Machine_ATM" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="Machine_ATM" target="15" />
-    </bytecodeTargetLevel>
   </component>
 </project>
