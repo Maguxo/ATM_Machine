@@ -36,6 +36,7 @@
    <h1>Objetivo</h1>
    <p>1) El Cliente ingresa la tarjeta;</p>
    <p>2) El CA verifica la tarjeta con el banco;</p>
+   <p>3) El cajero solicita clave.</p>
   </div>
 
 ---
