@@ -34,7 +34,7 @@
   ---
   <div>
    <h1>Objetivo</h1>
-   <
+   <p>1) El Cliente ingresa la tarjeta.</p>
   </div>
 
 ---
