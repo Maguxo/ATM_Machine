@@ -42,7 +42,7 @@
    <p>6) El cajero muestra opciones;</p>
    <p>7) El cliente elije opción extraer;</p>
    <p>8) El cajero evalúa opción con el banco;</p>
-   <p></p>
+   <p>9) El banco chequea la cuenta;</p>
   </div>
 
 ---
