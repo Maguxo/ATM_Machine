@@ -9,11 +9,13 @@
 
 <div align="center">
  <h1>Tools</h1>
- *Intellij IDE
+ *Intellij IDE;
  <br>
- * Blender
+ * Blender;
  <br>
- * JDK 15
+ * JDK 15;
+ <br>
+ *Hibernate JPA;
 </div>
 
 <div align="center">
