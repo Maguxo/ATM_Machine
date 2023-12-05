@@ -44,6 +44,7 @@
    <p>8) El cajero evalúa opción con el banco;</p>
    <p>9) El banco chequea la cuenta;</p>
    <p>10) Se realiza latransacción;</p>
+   <p>11) El cajero expulsa el dinero;</p>
   </div>
 
 ---
