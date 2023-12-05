@@ -43,6 +43,7 @@
    <p>7) El cliente elije opción extraer;</p>
    <p>8) El cajero evalúa opción con el banco;</p>
    <p>9) El banco chequea la cuenta;</p>
+   <p>10) Se realiza latransacción;</p>
   </div>
 
 ---
