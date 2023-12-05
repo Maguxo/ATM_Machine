@@ -38,6 +38,7 @@
    <p>2) El CA verifica la tarjeta con el banco;</p>
    <p>3) El cajero solicita clave;</p>
    <p>4) El cliente introduce clave;</p>
+   <p>5)El cajero verifica clave con el banco;</p>
   </div>
 
 ---
