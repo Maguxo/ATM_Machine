@@ -48,6 +48,7 @@
    <p>12) El cliente solicita ticket;</p>
    <p>13) El cajero expulsa el ticket;</p>
    <p>14) El cliente cierra sesión;</p>
+   <p>15) El cajero expulsa tarjeta.</p>
   </div>
 
 ---
