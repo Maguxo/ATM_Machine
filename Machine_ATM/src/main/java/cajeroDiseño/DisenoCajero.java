@@ -2,12 +2,26 @@ package cajeroDiseño;
 
 import javax.swing.*;
 import java.awt.*;
+import java.util.Objects;
 
-public class DiseñoCajero extends JPanel {
+public class DisenoCajero extends JPanel {
 
     @Override
-    public void paint(Graphics2D g){
+    public void paint(Graphics g){
         super.paint(g);
+
+        int [] puntoX={600,300,150,300,600,760};
+        int [] puntoY= {100,100,349,600,600,346};
+
+        g.setColor(new Color(217,29,0));
+         g.fillPolygon(puntoX, puntoY, 6);
+
+      
+       /*g.setColor(Color.BLUE);
+        g.fillRoundRect(600,100,200,200,50,50);*/
+
+
+
     }
 
 
@@ -26,7 +40,7 @@ public class DiseñoCajero extends JPanel {
     }*/
 
 
-    public Image getIconImage(){
+    /*public Image getIconImage(){
         return Toolkit.getDefaultToolkit().getImage(ClassLoader.getSystemResource("image/logo.png")).getScaledInstance(100,100,20);
-    }
+    }*/
 }
