@@ -9,11 +9,13 @@
 
 <div align="center">
  <h1>Tools</h1>
- *Intellij IDE
+ *Intellij IDE;
  <br>
- * Blender
+ * Blender;
  <br>
- * JDK 15
+ * JDK 15;
+ <br>
+ *Hibernate JPA;
 </div>
 
 <div align="center">
@@ -29,10 +31,34 @@
    <img src="https://github.com/Magucho/ATM_Machine/assets/98346054/e785621a-d98b-4cce-9886-8c4577d1aaec">
 
   </div>
-  
+
+
+  ---
+  <div>
+   <h1>Objetivo</h1>
+   <p>1) El Cliente ingresa la tarjeta;</p>
+   <p>2) El CA verifica la tarjeta con el banco;</p>
+   <p>3) El cajero solicita clave;</p>
+   <p>4) El cliente introduce clave;</p>
+   <p>5)El cajero verifica clave con el banco;</p>
+   <p>6) El cajero muestra opciones;</p>
+   <p>7) El cliente elije opción extraer;</p>
+   <p>8) El cajero evalúa opción con el banco;</p>
+   <p>9) El banco chequea la cuenta;</p>
+   <p>10) Se realiza latransacción;</p>
+   <p>11) El cajero expulsa el dinero;</p>
+   <p>12) El cliente solicita ticket;</p>
+   <p>13) El cajero expulsa el ticket;</p>
+   <p>14) El cliente cierra sesión;</p>
+   <p>15) El cajero expulsa tarjeta.</p>
+  </div>
+
+---
   <div>
    <h1>Presentación</h1>
+   <p>Se muestra el inicio del programa.</p>
     <img src="https://github.com/Magucho/ATM_Machine/assets/98346054/04ebb60d-4002-4760-9c60-8507aa173ad6"  width=800>
   </div>
+  
 </div>
 
