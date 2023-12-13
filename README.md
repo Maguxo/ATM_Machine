@@ -62,7 +62,7 @@
   <div>
    <h1>Logn ln</h1>
    <p>Ya que no se cuenta con una targeta de credito, se simulará con un usuario y contraseña para poder ingresar al menú del ATM Machine.</p>
-    <img src="https://github.com/Magucho/ATM_Machine/assets/98346054/04ebb60d-4002-4760-9c60-8507aa173ad6"  width=800>
+    <img src="https://github.com/Magucho/ATM_Machine/assets/98346054/d17ec60e-7c3f-4ba6-b764-9eb73af70362"  width=800>
   </div>
   </div>
   
