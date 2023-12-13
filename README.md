@@ -29,9 +29,7 @@
   <div align="center">
    <h1>Diagrama de clases</h1>
    <img src="https://github.com/Magucho/ATM_Machine/assets/98346054/e785621a-d98b-4cce-9886-8c4577d1aaec">
-
   </div>
-
 
   ---
   <div>
