@@ -59,6 +59,14 @@
    <p>Inica el programa con un diseño realizado en blender de un banco en 3D.</p>
     <img src="https://github.com/Magucho/ATM_Machine/assets/98346054/04ebb60d-4002-4760-9c60-8507aa173ad6"  width=800>
   </div>
+
+  ---
+  <div>
+   <h1>Logn ln</h1>
+   <p>Ya que no se cuenta con una targeta de credito, se simulará con un usuario y contraseña para poder ingresar al menú del ATM Machine.</p>
+    <img src="https://github.com/Magucho/ATM_Machine/assets/98346054/04ebb60d-4002-4760-9c60-8507aa173ad6"  width=800>
+  </div>
+  </div>
   
 </div>
 
