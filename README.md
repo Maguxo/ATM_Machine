@@ -56,7 +56,7 @@
 ---
   <div>
    <h1>Presentación</h1>
-   <p>Se muestra el inicio del programa.</p>
+   <p>Inica el programa con un diseño realizado en blender de un banco en 3D.</p>
     <img src="https://github.com/Magucho/ATM_Machine/assets/98346054/04ebb60d-4002-4760-9c60-8507aa173ad6"  width=800>
   </div>
   
