@@ -29,9 +29,7 @@
   <div align="center">
    <h1>Diagrama de clases</h1>
    <img src="https://github.com/Magucho/ATM_Machine/assets/98346054/e785621a-d98b-4cce-9886-8c4577d1aaec">
-
   </div>
-
 
   ---
   <div>
@@ -56,8 +54,16 @@
 ---
   <div>
    <h1>Presentación</h1>
-   <p>Se muestra el inicio del programa.</p>
+   <p>Inica el programa con un diseño realizado en blender de un banco en 3D.</p>
     <img src="https://github.com/Magucho/ATM_Machine/assets/98346054/04ebb60d-4002-4760-9c60-8507aa173ad6"  width=800>
+  </div>
+
+  ---
+  <div>
+   <h1>Logn ln</h1>
+   <p>Ya que no se cuenta con una targeta de credito, se simulará con un usuario y contraseña para poder ingresar al menú del ATM Machine.</p>
+    <img src="https://github.com/Magucho/ATM_Machine/assets/98346054/d17ec60e-7c3f-4ba6-b764-9eb73af70362"  width=800>
+  </div>
   </div>
   
 </div>
