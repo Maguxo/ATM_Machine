@@ -64,6 +64,15 @@
    <p>Ya que no se cuenta con una targeta de credito, se simulará con un usuario y contraseña para poder ingresar al menú del ATM Machine.</p>
     <img src="https://github.com/Magucho/ATM_Machine/assets/98346054/d17ec60e-7c3f-4ba6-b764-9eb73af70362"  width=800>
   </div>
+
+  ---
+  <div>
+   <h1>Options</h1>
+   <p>Navega en 6 opciones para retirar, trasferir, depotitar, consultar y ahorrar el dinero.</p>
+    <img src="https://github.com/Magucho/ATM_Machine/assets/98346054/f63cef81-314e-420e-9191-c746e321b55d"  width=800>
+  </div>
+
+
   </div>
   
 </div>
