@@ -69,7 +69,7 @@
   <div>
    <h1>Options</h1>
    <p>Navega en 6 opciones para retirar, trasferir, depotitar, consultar y ahorrar el dinero.</p>
-    <img src=""  width=800>
+    <img src="https://github.com/Magucho/ATM_Machine/assets/98346054/fdf1d5d5-0df1-451a-bcf6-45781f809c35"  width=800>
   </div>
 
 
