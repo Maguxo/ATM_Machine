@@ -1,6 +1,6 @@
 package Principal;
 
-import Presentacion.presenta3D;
+import cajeroDiseño.Presentacion.presenta3D;
 
 import javax.swing.*;
 
@@ -18,7 +18,6 @@ public class principal {
         ventana.setVisible(true);
         ventana.setLocationRelativeTo(null);
         ventana.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-
     }
 
 }
