@@ -76,8 +76,9 @@
   <div>
    <h1>Successful transaction</h1>
    <p>En caso de retirar dinero de manera exitosa.</p>
-    <img src="https://github.com/Magucho/ATM_Machine/assets/98346054/fdf1d5d5-0df1-451a-bcf6-45781f809c35"  width=800>
+    <img src="https://github.com/Magucho/ATM_Machine/assets/98346054/738f2379-45f6-46a6-a00b-173712a83761"  width=800>
   </div>
+
 
 
   </div>
